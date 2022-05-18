@@ -3,4 +3,4 @@
 
 // The function takes a name as its only argument, and returns one of the following strings:
 
-let areYouPlayingBanjo = name => name.toLowerCase().split('')[0] == 'r'? name + ' plays banjo': name +' does not play banjo'
+let areYouPlayingBanjo = name => name.toLowerCase().split('')[0] == 'r'? name + ' plays banjo': name +' does not play banjo' 
